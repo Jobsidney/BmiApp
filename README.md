@@ -1,6 +1,6 @@
-# untitled
+# BMI calculator 
 
-A new Flutter project.
+that uses weight and height to calculate body mass index.
 
 ## Getting Started
 
