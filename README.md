@@ -1,6 +1,6 @@
 # BMI calculator 
 
-that uses weight and height to calculate body mass index.
+BMI CALCULATOR is a flutter and dart app that uses weight and height to calculate body mass index of any human. This app has a very well designed user interface . the calculations are accurate according to the base values provided by the health Orginisation
 
 ## Getting Started
 
